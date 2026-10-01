@@ -1,0 +1,10 @@
+# Secrets — never commit
+api_key.py
+.env
+
+# Virtualenv
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
